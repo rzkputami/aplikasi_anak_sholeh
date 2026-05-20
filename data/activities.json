@@ -1,0 +1,182 @@
+[
+    {
+        "id": "69eee061779ae",
+        "child_id": "69eecd68af8b5",
+        "date": "2026-04-27",
+        "type": "sholat",
+        "item": "Subuh",
+        "stars": 3,
+        "done": true
+    },
+    {
+        "id": "69eee06a91980",
+        "child_id": "69eecd68af8b5",
+        "date": "2026-04-27",
+        "type": "amalan",
+        "item": "Membantu Orang Tua",
+        "stars": 2,
+        "done": true
+    },
+    {
+        "id": "69eee075a31d2",
+        "child_id": "69eecd68af8b5",
+        "date": "2026-04-27",
+        "type": "amalan",
+        "item": "Menjaga Kebersihan",
+        "stars": 1,
+        "done": true
+    },
+    {
+        "id": "69eee07758450",
+        "child_id": "69eecd68af8b5",
+        "date": "2026-04-27",
+        "type": "amalan",
+        "item": "Berbuat Baik",
+        "stars": 1,
+        "done": true
+    },
+    {
+        "id": "69eee0e408a41",
+        "child_id": "69eecd68af8b5",
+        "date": "2026-04-27",
+        "type": "iqro",
+        "item": "Iqro Jilid Iqro 3 Hal.59",
+        "stars": 3,
+        "done": true
+    },
+    {
+        "id": "69eee0f1defec",
+        "child_id": "69eecd68af8b5",
+        "date": "2026-04-27",
+        "type": "hadist",
+        "item": "Hadist Kebersihan",
+        "stars": 3,
+        "done": true
+    },
+    {
+        "id": "69eee0ffb37be",
+        "child_id": "69eecd68af8b5",
+        "date": "2026-04-27",
+        "type": "doa",
+        "item": "Do'a Belajar",
+        "stars": 2,
+        "done": true
+    },
+    {
+        "id": "69ef440e2b9eb",
+        "child_id": "69eecd68af8b5",
+        "date": "2026-04-27",
+        "type": "sholat",
+        "item": "Dzuhur",
+        "stars": 1,
+        "done": true
+    },
+    {
+        "id": "69ef44116b9b5",
+        "child_id": "69eecd68af8b5",
+        "date": "2026-04-27",
+        "type": "sholat",
+        "item": "Ashar",
+        "stars": 1,
+        "done": true
+    },
+    {
+        "id": "69ef442a7690e",
+        "child_id": "69eecd68af8b5",
+        "date": "2026-04-27",
+        "type": "surah",
+        "item": "Al-Bayyinah",
+        "stars": 3,
+        "done": true
+    },
+    {
+        "id": "69ef442f05235",
+        "child_id": "69eecd68af8b5",
+        "date": "2026-04-27",
+        "type": "doa",
+        "item": "Do'a Sebelum Makan",
+        "stars": 1,
+        "done": true
+    },
+    {
+        "id": "69faaa2c11f51",
+        "child_id": "69faa638743ca",
+        "date": "2026-05-06",
+        "type": "sholat",
+        "item": "Subuh",
+        "stars": 1,
+        "done": true
+    },
+    {
+        "id": "69faaa316ce96",
+        "child_id": "69faa638743ca",
+        "date": "2026-05-06",
+        "type": "sholat",
+        "item": "Dzuhur",
+        "stars": 1,
+        "done": true
+    },
+    {
+        "id": "69faaa48e27b2",
+        "child_id": "69faa638743ca",
+        "date": "2026-05-06",
+        "type": "surah",
+        "item": "Asy-Syarh",
+        "stars": 1,
+        "done": true
+    },
+    {
+        "id": "69faaa530c665",
+        "child_id": "69faa638743ca",
+        "date": "2026-05-06",
+        "type": "amalan",
+        "item": "Membantu Orang Tua",
+        "stars": 3,
+        "done": true
+    },
+    {
+        "id": "69faaa5fa46e8",
+        "child_id": "69faa638743ca",
+        "date": "2026-05-06",
+        "type": "amalan",
+        "item": "Berbuat Baik",
+        "stars": 3,
+        "done": true
+    },
+    {
+        "id": "69faaa6746544",
+        "child_id": "69faa638743ca",
+        "date": "2026-05-06",
+        "type": "amalan",
+        "item": "Menjaga Kebersihan",
+        "stars": 2,
+        "done": true
+    },
+    {
+        "id": "69faaa71be069",
+        "child_id": "69faa638743ca",
+        "date": "2026-05-06",
+        "type": "doa",
+        "item": "Do'a Untuk Orang Tua",
+        "stars": 3,
+        "done": true
+    },
+    {
+        "id": "69faaa7d1dc5e",
+        "child_id": "69faa638743ca",
+        "date": "2026-05-06",
+        "type": "hadist",
+        "item": "Hadist Berbakti kepada Orang Tua",
+        "stars": 2,
+        "done": true
+    },
+    {
+        "id": "69faaa81d0ddb",
+        "child_id": "69faa638743ca",
+        "date": "2026-05-06",
+        "type": "iqro",
+        "item": "Iqro 1",
+        "stars": 1,
+        "done": true
+    }
+]

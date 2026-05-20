@@ -1,0 +1,106 @@
+{
+    "sholat": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+    ],
+    "surah_juz30": [
+        "An-Naba",
+        "An-Nazi'at",
+        "Abasa",
+        "At-Takwir",
+        "Al-Infitar",
+        "Al-Mutaffifin",
+        "Al-Insyiqaq",
+        "Al-Buruj",
+        "At-Tariq",
+        "Al-A'la",
+        "Al-Ghasyiyah",
+        "Al-Fajr",
+        "Al-Balad",
+        "Asy-Syams",
+        "Al-Lail",
+        "Ad-Duha",
+        "Asy-Syarh",
+        "At-Tin",
+        "Al-Alaq",
+        "Al-Qadr",
+        "Al-Bayyinah",
+        "Az-Zalzalah",
+        "Al-Adiyat",
+        "Al-Qari'ah",
+        "At-Takatsur",
+        "Al-Asr",
+        "Al-Humazah",
+        "Al-Fil",
+        "Quraisy",
+        "Al-Ma'un",
+        "Al-Kautsar",
+        "Al-Kafirun",
+        "An-Nasr",
+        "Al-Masad",
+        "Al-Ikhlas",
+        "Al-Falaq",
+        "An-Nas"
+    ],
+    "doa": [
+        "Do'a Sebelum Makan",
+        "Do'a Sesudah Makan",
+        "Do'a Sebelum Tidur",
+        "Do'a Bangun Tidur",
+        "Do'a Masuk Kamar Mandi",
+        "Do'a Keluar Kamar Mandi",
+        "Do'a Masuk Rumah",
+        "Do'a Keluar Rumah",
+        "Do'a Naik Kendaraan",
+        "Do'a Untuk Orang Tua",
+        "Do'a Belajar"
+    ],
+    "hadist": [
+        "Hadist Kebersihan",
+        "Hadist Menuntut Ilmu",
+        "Hadist Berbakti kepada Orang Tua",
+        "Hadist Senyum adalah Sedekah",
+        "Hadist Kasih Sayang",
+        "Hadist Kejujuran"
+    ],
+    "iqro": [
+        "Iqro 1",
+        "Iqro 2",
+        "Iqro 3",
+        "Iqro 4",
+        "Iqro 5",
+        "Iqro 6",
+        "Al-Qur'an"
+    ],
+    "hadiah": [
+        {
+            "bintang": 10,
+            "hadiah": "Crayon"
+        },
+        {
+            "bintang": 25,
+            "hadiah": "Papan Gambar"
+        },
+        {
+            "bintang": 50,
+            "hadiah": "Jam Tangan"
+        },
+        {
+            "bintang": 100,
+            "hadiah": "Sepeda"
+        },
+        {
+            "bintang": 1000,
+            "hadiah": "Emas 5gr"
+        }
+    ],
+    "amalan": [
+        "Membersihkan tempat tidur",
+        "Membantu membuang sampah",
+        "Mencuci piring setelah makan",
+        "Bermain bersama saudara"
+    ]
+}
