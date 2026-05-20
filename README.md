@@ -42,7 +42,7 @@ Aplikasi ini adalah aplikasi web berbasis PHP untuk membantu orang tua melacak k
 
 1. Copy semua file ke folder web server Anda
    ```
-   /var/www/html/bintangku/
+   /var/www/html/anaksholeh/
    ```
 
 2. Buat folder `data/` dengan permission write:
@@ -53,7 +53,7 @@ Aplikasi ini adalah aplikasi web berbasis PHP untuk membantu orang tua melacak k
 
 3. Jalankan via PHP built-in server (untuk development):
    ```bash
-   cd /path/to/bintangku
+   cd /path/to/anaksholeh
    php -S localhost:8000
    ```
 
@@ -61,7 +61,7 @@ Aplikasi ini adalah aplikasi web berbasis PHP untuk membantu orang tua melacak k
 
 ### Struktur File
 ```
-bintangku/
+anaksholeh/
 ├── index.php          # File utama aplikasi
 ├── style.css          # Stylesheet
 ├── data/              # Folder penyimpanan data (JSON)
